@@ -1,0 +1,13 @@
+C:\Projects\AVL\AVL_Tree\bin\Debug\netcoreapp3.1\AVL_Tree.exe
+C:\Projects\AVL\AVL_Tree\bin\Debug\netcoreapp3.1\AVL_Tree.deps.json
+C:\Projects\AVL\AVL_Tree\bin\Debug\netcoreapp3.1\AVL_Tree.runtimeconfig.json
+C:\Projects\AVL\AVL_Tree\bin\Debug\netcoreapp3.1\AVL_Tree.runtimeconfig.dev.json
+C:\Projects\AVL\AVL_Tree\bin\Debug\netcoreapp3.1\AVL_Tree.dll
+C:\Projects\AVL\AVL_Tree\bin\Debug\netcoreapp3.1\AVL_Tree.pdb
+C:\Projects\AVL\AVL_Tree\obj\Debug\netcoreapp3.1\AVL_Tree.csprojAssemblyReference.cache
+C:\Projects\AVL\AVL_Tree\obj\Debug\netcoreapp3.1\AVL_Tree.AssemblyInfoInputs.cache
+C:\Projects\AVL\AVL_Tree\obj\Debug\netcoreapp3.1\AVL_Tree.AssemblyInfo.cs
+C:\Projects\AVL\AVL_Tree\obj\Debug\netcoreapp3.1\AVL_Tree.csproj.CoreCompileInputs.cache
+C:\Projects\AVL\AVL_Tree\obj\Debug\netcoreapp3.1\AVL_Tree.dll
+C:\Projects\AVL\AVL_Tree\obj\Debug\netcoreapp3.1\AVL_Tree.pdb
+C:\Projects\AVL\AVL_Tree\obj\Debug\netcoreapp3.1\AVL_Tree.genruntimeconfig.cache

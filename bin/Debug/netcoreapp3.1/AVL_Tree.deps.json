@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AVL_Tree/1.0.0": {
+        "runtime": {
+          "AVL_Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AVL_Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
